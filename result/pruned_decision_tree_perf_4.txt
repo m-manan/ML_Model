@@ -1,0 +1,4 @@
+""	"Sensitivity"	"Specificity"	"Pos Pred Value"	"Neg Pred Value"	"Precision"	"Recall"	"F1"	"Prevalence"	"Detection Rate"	"Detection Prevalence"	"Balanced Accuracy"
+"Class: H"	0.76	0.84	0.72	0.87	0.72	0.76	0.74	0.35	0.27	0.38	0.8
+"Class: L"	0.4	1	1	0.86	1	0.4	0.57	0.21	0.08	0.08	0.7
+"Class: M"	0.76	0.63	0.62	0.77	0.62	0.76	0.68	0.44	0.33	0.54	0.7
